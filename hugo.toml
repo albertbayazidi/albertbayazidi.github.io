@@ -1,0 +1,78 @@
+baseurl      = "https://albertbayazidi.github.io/"
+title        = "My Blog"
+languageCode = "en-us"
+theme        = "hello-friend-ng"
+paginate     = 10
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
+
+  # Subtitle for home
+  homeSubtitle = "Fysikk og matematikk"
+
+  # Set disableReadOtherPosts to true in order to hide the links to other posts.
+  disableReadOtherPosts = false
+
+  # Enable sharing buttons, if you like
+  enableSharingButtons = true
+  
+  # Show a global language switcher in the navigation bar
+  enableGlobalLanguageMenu = false
+
+  # Metadata mostly used in document's head
+  description = "My new homepage or blog"
+  keywords = "homepage, blog"
+  images = [""]
+
+[taxonomies]
+    category = "blog"
+    tag      = "tags"
+    series   = "series"
+
+[languages]
+  [languages.en]
+      title = "Albert Bayazidi"
+      subtitle = "HVEM VET"
+      keywords = ""
+      copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+      readOtherPosts = "Read other posts"
+
+    [languages.en.params.logo]
+        logoText = "array med tingsom enderer seg tilfeldig"
+        logoHomeLink = "/"
+        url = "/my_website/"
+
+  # And you can even create generic menu
+  
+  [[menu.main]]
+        identifier = "blog"
+        name       = "Blog"
+        url        = "/blog"
+        weight     = 3
+
+    [[menu.main]]
+        identifier = "cv"
+        name       = "CV"
+        url        = "/cv"
+        weight     = 2
+
+  [[menu.main]]
+        identifier = "about"
+        name       = "Om meg"
+        url        = "/om_meg"
+        weight     = 1
+
+  [[params.social]]
+        name = "github"
+        url = "https://github.com/albertbayazidi?tab=repositories"
+
+  [[params.social]]
+        name = "linkedin"
+        url = "https://www.linkedin.com/in/albert-bayazidi/"
+
+  [[params.social]]
+        name = "email"
+        url = "mailto:albert.bayazidi@gmail.com"
