@@ -35,13 +35,13 @@ paginate     = 10
 [languages]
   [languages.en]
       title = "Albert Bayazidi"
-      subtitle = "HVEM VET"
+      subtitle = ""
       keywords = ""
       copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
       readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-        logoText = "array med tingsom enderer seg tilfeldig"
+        logoText = "Home/"
         logoHomeLink = "/"
         url = "/my_website/"
 
