@@ -30,8 +30,8 @@ html {
     flex-direction: column;
   
     // Default
-    background-color: $light-background;
-    color: $light-color;
+    background-color: $dark-background;
+    color: $dark-color;
   
     @media #{$media-size-phone} {
       font-size: 1rem;
