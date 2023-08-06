@@ -27,11 +27,6 @@ paginate     = 10
     keywords = "homepage, blog"
     images = [""]
 
-[taxonomies]
-    category = "blog"
-    tag      = "tags"
-    series   = "series"
-
 [languages]
     [languages.en]
         title = "Albert Bayazidi"
@@ -46,12 +41,6 @@ paginate     = 10
         url = "/my_website/"
 
   # And you can even create generic menu
-
-    [[menu.main]]
-        identifier = "blog"
-        name       = "Blog"
-        url        = "/blog"
-        weight     = 3
 
     [[menu.main]]
         identifier = "cv"
