@@ -433,4 +433,15 @@ html {
   .highlight {
     margin: 30px auto;
   }
-  
+  .grid-container_cv{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    font-size: 0.875rem;
+    padding: 10px;
+  }
+  .grid-item_cv {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid;
+    padding: 20px;
+    text-align: center;
+  }

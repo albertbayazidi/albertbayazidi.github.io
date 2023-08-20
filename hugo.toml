@@ -65,3 +65,7 @@ paginate     = 10
     [[params.social]]
         name = "email"
         url = "mailto:albert.bayazidi@gmail.com"
+
+
+[markup.goldmark.renderer]
+unsafe= true

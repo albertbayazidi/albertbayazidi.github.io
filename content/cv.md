@@ -3,12 +3,19 @@
 ### Utdanning
 
 **Norges teknisk-naturvitenskapelige universitet** Trondheim 
-* Mastergrad fysikk og matematikk &nbsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 2020 - nå
-
+<div class="grid-container_cv">
+    <div class="grid-item">Mastergrad fysikk og matematikk </div>
+    <div class="grid-item"></div>
+    <div class="grid-item"> 2020 - nå</div>
+</div>
 &emsp;
 
 **Lillestrøm videregående skole** Lillestrøm
-* Studiespesialisering - realfag &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; 2017 - 2020   
+<div class="grid-container_cv">
+    <div class="grid-item">Studiespesialisering - realfag</div>
+    <div class="grid-item"></div>
+    <div class="grid-item">2017 - 2020</div>
+</div>
 
 &emsp;
 
