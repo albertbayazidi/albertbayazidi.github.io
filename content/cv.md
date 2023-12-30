@@ -29,11 +29,17 @@
 > 1. Evaluerer eksisterende brukerstøtte for NAV IT.
 > 2. Utviklet Decision Tree for bedre kategorisering av brukere.
 > 3. Brukte GLM til å predikere arbeidsledighetsvarighet.
-> 4. Dokumenterte og visualiserte prosjektresultater for presentasjon.
+> 4. Dokumenterte og visualiserte prosjektresultater.
 
 ---
 
 ### Frivillig aktivitet
+
+
+**Orbit NTNU**
+
+Sep 2023 - nå
+>Bygger små satelliter som sendes til verdensrommet. Jobbet i ADCS gruppa hvor jeg utviklet en rungen-kutta løser i C. 
 
 **Cogito NTNU** 
 

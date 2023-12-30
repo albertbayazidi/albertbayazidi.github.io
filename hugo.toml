@@ -43,13 +43,19 @@ paginate     = 10
   # And you can even create generic menu
 
     [[menu.main]]
+        identifier = "prosjekter"
+        name       = "Prosjekter"
+        url        = "/prosjekter"
+        weight     = 3
+
+    [[menu.main]]
         identifier = "cv"
         name       = "CV"
         url        = "/cv"
         weight     = 2
 
     [[menu.main]]
-        identifier = "about"
+        identifier = "om meg"
         name       = "Om meg"
         url        = "/om_meg"
         weight     = 1
